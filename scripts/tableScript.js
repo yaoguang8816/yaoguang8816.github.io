@@ -5,7 +5,7 @@
 window.onload = init;
 
 function init() {
-    alert("init!")
+    alert("init1!")
     for (var i=0; i<25; i++) {
         var newNum = Math.floor(Math.random() * 75) + 1;
         document.getElementById("square" + i).innerHTML = newNum;
