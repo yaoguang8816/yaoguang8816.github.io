@@ -1,0 +1,19 @@
+body {
+    background: wheat;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: large;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,td {
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+    border: 2px #666 solid;
+}

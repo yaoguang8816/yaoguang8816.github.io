@@ -31,9 +31,18 @@ img[src] {
 }
 
 .upNumber {
-  color: chartreuse;
+  color: blanchedalmond;
   font-family: bold;
   font-size: 18px;
+}
+
+.clickButton {
+  margin: 10px;
+  background: chocolate;
+  color: darkkhaki;
+  font-size: large;
+  width: 100px;
+  height: 40px;
 }
 
 h2 {
