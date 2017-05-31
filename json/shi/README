@@ -1,0 +1,18 @@
+作品ID命名方式
+aaabcccc
+aaa: 作者代号
+b: 文学体裁
+cccc: 作品id
+
+作者代号：
+001 libai
+002 dufu
+101 sushi
+
+文学体裁
+0 诗歌
+1 词
+2 曲
+3 文
+
+作品id
