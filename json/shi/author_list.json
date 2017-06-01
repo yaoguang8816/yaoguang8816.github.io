@@ -5,22 +5,22 @@
     {
       "title": "李白",
       "index": "libai",
-      "id": 10001
+      "id": "001"
     },
     {
-      "author": "杜甫",
+      "title": "杜甫",
       "index": "dufu",
-      "id": 10002
+      "id": "002"
     },
     {
-      "author": "苏轼",
+      "title": "苏轼",
       "index": "sushi",
-      "id": 10003
+      "id": "101"
     },
     {
-      "author": "刘禹锡",
+      "title": "刘禹锡",
       "index": "liuyuxi",
-      "id": 10004
+      "id": "018"
     }
   ]
 }
