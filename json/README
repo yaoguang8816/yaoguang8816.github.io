@@ -1,0 +1,22 @@
+作品ID命名方式
+aaabcccc
+aaa: 作者代号
+b: 文学体裁
+cccc: 作品id
+
+作者代号：
+代号 index 姓名
+000 wumingshi 无名氏
+001 libai 李白
+002 dufu 杜甫
+101 sushi 苏轼
+102 xinqiji 辛弃疾
+103 liqingzhao 李清照
+
+文学体裁
+0 诗歌 （唐后）
+1 词
+2 古文
+3 古体诗（唐前）
+
+作品id
