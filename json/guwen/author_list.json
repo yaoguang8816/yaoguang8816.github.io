@@ -5,37 +5,47 @@
     {
       "title": "先秦",
       "index": "xianqin",
-      "id": "001"
+      "id": "0"
     },
     {
       "title": "秦汉",
       "index": "qinhan",
-      "id": "002"
+      "id": "1"
     },
     {
       "title": "两晋南北朝",
       "index": "liangjin",
-      "id": "101"
+      "id": "2"
     },
     {
       "title": "隋唐",
       "index": "suitang",
-      "id": "101"
+      "id": "3"
     },
     {
-      "title": "宋金辽元",
-      "index": "song",
-      "id": "101"
+      "title": "五代金辽",
+      "index": "wudai",
+      "id": "4"
+    },
+    {
+      "title": "宋元",
+      "index": "songyuan",
+      "id": "5"
     },
     {
       "title": "明清",
       "index": "mingqing",
-      "id": "101"
+      "id": "6"
     },
     {
       "title": "近现代",
       "index": "jinxiandai",
-      "id": "018"
+      "id": "7"
+    },
+    {
+      "title": "其它",
+      "index": "other",
+      "id": "9"
     }
   ]
 }
