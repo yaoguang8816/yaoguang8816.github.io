@@ -7,7 +7,7 @@ cccc: 作品id
 
 朝代：
 0 先秦
-1 秦汉
+1 两汉
 2 三国、两晋、南北朝
 3 隋唐
 4 五代、金、辽
@@ -19,7 +19,7 @@ cccc: 作品id
 
 作者代号Aaaa：
 代号 index 姓名
-9999 wumingshi 无名氏
+999 wumingshi 各朝代无名氏或者作者不关注
 3001 libai 李白
 3002 dufu 杜甫
 3018 liuyuxi 刘禹锡
