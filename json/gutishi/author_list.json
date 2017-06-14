@@ -1,0 +1,31 @@
+{
+  "name": "success",
+  "code": 0,
+  "data": [
+    {
+      "title": "诗经",
+      "index": "shijing",
+      "id": "0000"
+    },
+    {
+      "title": "乐府",
+      "index": "yuefu",
+      "id": "9000"
+    },
+    {
+      "title": "楚辞",
+      "index": "chuci",
+      "id": "9001"
+    },
+    {
+      "title": "古诗十九首",
+      "index": "gushi",
+      "id": "1000"
+    },
+    {
+      "title": "其它",
+      "index": "qita",
+      "id": "9999"
+    }
+  ]
+}
