@@ -6,16 +6,16 @@ b: 文学体裁
 cccc: 作品id
 
 朝代：
-0 先秦
-1 两汉
-2 三国、两晋、南北朝
-3 隋唐
-4 五代、金、辽
-5 宋、元
-6 明清
-7 近现代
+0 先秦 xianqin
+1 两汉 lianghan
+2 三国、两晋、南北朝 liangjin
+3 隋唐 suitang
+4 五代、金、辽 wudai
+5 宋、元 songyuan
+6 明清 mingqing
+7 近现代 jinxiandai
 8 备用
-9 其它，代表朝代未知，或者诗集跨度超过一个朝代
+9 其它，代表朝代未知，或者诗集跨度超过一个朝代 qita
 
 作者代号Aaaa：
 代号 index 姓名
