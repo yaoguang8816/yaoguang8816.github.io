@@ -10,6 +10,7 @@
     {"id": "3001", "title": "李白", "index": "libai"},
     {"id": "3002", "title": "杜甫", "index": "dufu"},
     {"id": "3018", "title": "刘禹锡", "index": "liuyuxi"},
+    {"id": "3118", "title": "温庭筠", "index": "wentingyun"},
     {"id": "3999", "title": "其他", "index": "suitang"},
     {"id": "4999", "title": "其他", "index": "wudai"},
     {"id": "5001", "title": "苏轼", "index": "sushi"},
